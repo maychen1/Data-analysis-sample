@@ -1,4 +1,4 @@
-# code-sample: Employment rate by industry 
+# Data cleaning sample: Employment rate by industry 
 
 SAEMP25N are GDP and personal income data in the United States. 
 For this project, I want to reorder and analyze 2000 and 2017 SAEMP25N data in total and by industry. 
